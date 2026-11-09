@@ -1,0 +1,10 @@
+[project]
+name = "jms-tms-transportation"
+version = "3.4.1"
+description = "JMS 干线运输调度域接入客户端"
+requires-python = ">=3.8"
+
+[tool.jms]
+group = "jms-tms-transportation"
+domain = "transportation"
+owner = "transport-data"
